@@ -14,4 +14,3 @@ def name=(name)
     @job
   end 
   
-end
